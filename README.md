@@ -76,7 +76,7 @@ Clonar el repositorio:
 
 
 
-git clone https://github.com/Williambermeo/gestion-nomina2
+git clone https://github.com/Williambermeo/sgn-backend
 
 
 
